@@ -43,6 +43,7 @@ All system pages have role verifications to ensure appropriate access to functio
 <img src="Booking_Outsystems/Pictures_Booking/Screenshot2025-02-07141131.png" alt="Room Management Screenshot" width="400">
 <img src="Booking_Outsystems/Pictures_Booking/Screenshot2025-02-07141153.png" alt="Reservation List Screenshot" width="400">
 <img src="Booking_Outsystems/Pictures_Booking/Screenshot2025-02-07142002.png" alt="Reservation Details Screenshot" width="400">
+<img src="Booking_Outsystems/Pictures_Booking/Screenshot2025-02-07145343.png" alt="Database Diagram" width="400">
 </div>
 
 ## Notes
