@@ -38,13 +38,22 @@ All system pages have role verifications to ensure appropriate access to functio
 
 ## Screenshots/Images
 
-<div id="aksjd" align="center">
-<img src="Booking_Outsystems/Pictures_Booking/Screenshot2025-02-07141027.png" alt="Dashboard Screenshot" width="400">
-<img src="Booking_Outsystems/Pictures_Booking/Screenshot2025-02-07141131.png" alt="Room Management Screenshot" width="400">
-<img src="Booking_Outsystems/Pictures_Booking/Screenshot2025-02-07141153.png" alt="Reservation List Screenshot" width="400">
-<img src="Booking_Outsystems/Pictures_Booking/Screenshot2025-02-07142002.png" alt="Reservation Details Screenshot" width="400">
-<img src="Booking_Outsystems/Pictures_Booking/Screenshot2025-02-07145343.png" alt="Database Diagram" width="400">
-</div>
+<p align="center">
+  <div style="display: flex; justify-content: center; gap: 20px; align-items: center;">
+    <img src="Booking_Outsystems/Pictures_Booking/Screenshot2025-02-07141027.png" width="500" height="500" style="object-fit: cover;" />
+  </div>
+  <div style="display: flex; justify-content: center; gap: 20px; align-items: center;">
+    <img src="Booking_Outsystems/Pictures_Booking/Screenshot2025-02-07142002.png" width="500" height="300" style="object-fit: cover;" />
+    <img src="Booking_Outsystems/Pictures_Booking/Screenshot2025-02-07141131.png" width="500" height="300" style="object-fit: cover;" />
+  </div>
+  <br>
+  <div style="display: flex; justify-content: center; gap: 20px; align-items: center;">
+    <img src="Booking_Outsystems/Pictures_Booking/Screenshot2025-02-07141153.png" width="500" height="300" style="object-fit: cover;" />
+    <img src="Booking_Outsystems/Pictures_Booking/Screenshot2025-02-07145343.png" width="500" height="300" style="object-fit: cover;" />
+  </div>
+  <br>
+ 
+ </p>
 
 ## Notes
 
